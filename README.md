@@ -1,4 +1,4 @@
-# HerstPainting
+# Herst painting
  This task was completed while learning programming in Python. Task from Udemy website.
 Course:
 100 Days of Code: The Complete Python Pro Bootcamp for 2023
